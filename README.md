@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @BYAIKON
-- 👀 I want to learn how to develop systems
-- 🌱 I’m currently learning language c,Python...
-- 💞️ I’m looking  to collaborate on ...
-- 📫 How to reach me ...
+Eu Me Chama Luiz Guilherme, Natural de Bonito MS,
+No atual momento trabalho na Localiza de jovem aprendiz, estou fora da Area de TI por isso Busco Estágio Para aprofundar conhecimento sendo muito Produtivo na futura empresa que irei trabalhar
 
-<!---
-BYAIKON/BYAIKON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Programando em HTML e CSS;
+Aprendendo JavaScript Para Web;
+Aprendendo Programação em Objetos e Classes Com Java;
+Aprendendo a Sistematica de Engenharia De Software;
+...
+
+Estou Cru Aínda, Busco Meu Primeiro Emprego Na Área!
+
+Paz na Terra Para os Homens E Gloria a Deus Nas Alturas!
+
